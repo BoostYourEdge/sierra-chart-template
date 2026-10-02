@@ -2,8 +2,6 @@
 
 > *Setting this up from scratch is a total pain in the ass – I really wish I had this ready-made template back then!*
 
-This repository contains the configuration and chartbook for the MES (Micro E-mini S&P 500) in Sierra Chart.
-
 ## Included Files & Installation
 
 1. **`Sierra4.config`**
