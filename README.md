@@ -11,7 +11,6 @@
 
 2. **`MES.cht`**
    * **Content:** The actual chartbook containing the prepared charts.
-   * **Path:** Placed into your Sierra Chart `Data` folder (or opened directly within the program).
 
 ---
 
