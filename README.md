@@ -14,6 +14,8 @@ Contains the Sierra Chart settings including the Control Bars.
 ### `MES.cht`
 The chartbook containing the prepared MES charts.
 
+> **Note:** The 20 EMA (black line) has a pre-configured alert. The alert is currently muted via the Control Bar button.
+
 ---
 
 ## Chart Previews
