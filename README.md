@@ -1,16 +1,18 @@
-# Sierra Chart Setup (MES)
+# Free Sierra Chart Template for MES
 
-> *Setting this up from scratch is a total pain in the ass – I really wish I had this ready-made template back then!*
+> *Setting this up from scratch is a total pain in the ass. I really wish I had this ready-made template back then!*
 
 ## Included Files & Installation
 
-1. **`Sierra4.config`**
-   * **Content:** Contains all settings including the control bars.
-   * **Path:** Must be copied into the main **Sierra Chart** folder. 
-   * *Note:* This file can be removed at any time and will then automatically be recreated as the default.
+### `Sierra4.config`
+Contains the Sierra Chart settings including the Control Bars.
 
-2. **`MES.cht`**
-   * **Content:** The actual chartbook containing the prepared charts.
+**Installation:** Copy the file into your main **Sierra Chart** folder.
+
+> **Note:** This file is optional. If removed, Sierra Chart will automatically recreate it with the default settings.
+
+### `MES.cht`
+The chartbook containing the prepared MES charts.
 
 ---
 
@@ -27,3 +29,8 @@
 
 ### Daily Chart (Daily)
 ![Daily Chart](Daily.png)
+
+---
+
+**More Sierra Chart tools:**  
+https://boostyouredge.com
