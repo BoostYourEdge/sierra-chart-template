@@ -14,7 +14,19 @@ Contains the Sierra Chart settings including the Control Bars.
 ### `MES.cht`
 The chartbook containing the prepared MES charts.
 
-> **Note:** The 20 EMA (black line) has a pre-configured alert. The alert is currently muted via the Control Bar button.
+---
+
+## Quick Tips
+
+- The **1-minute and 5-minute charts use the same studies**.
+- **Volume Profile and Delta settings** can be adjusted to your personal preference.
+- **8R / 24R** are Range Bar charts and can be interesting for exploring different trading ideas or styles.
+- **DD** shows the delayed market data time for reference.
+- **Session times are intentionally rounded**, so small overlaps or gaps between sessions are possible.
+- The **TWC button** can be linked to Order Templates.
+- **CS / ACS buttons** can be assigned to additional functions.
+- Additional **drawing tools with alerts** are available next to the Alert Manager.
+- The **Status Bar is disabled** because the relevant information is already shown in the chart title bar.
 
 ---
 
