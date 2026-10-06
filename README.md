@@ -22,7 +22,7 @@ The chartbook containing the prepared MES charts.
 - **Volume Profile and Delta settings** should be adjusted to suit your personal preference.
 - **8R / 24R** are Range Bar charts and can be interesting for exploring different trading ideas or styles.
 - **DD** shows the current market data delay for reference.
-- **Session times are intentionally rounded**, so small overlaps or gaps between sessions are possible.
+- **Session times are intentionally rounded**, so the Time Range Highlight Studies may show small overlaps or gaps between sessions.
 
 ### Control Bar
 
