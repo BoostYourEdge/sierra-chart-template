@@ -26,7 +26,7 @@ The chartbook containing the prepared MES charts.
 - The **TWC button** can be linked to Order Templates.
 - **CS / ACS buttons** can be assigned to additional functions.
 - Additional **drawing tools with alerts** are available next to the Alert Manager.
-- The **Status Bar is disabled** because the relevant information is already shown in the chart title bar.
+- The **Status Bar** has been removed from the Control Bar because the relevant information is already shown in the application title bar.
 
 ---
 
