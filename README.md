@@ -17,17 +17,18 @@ The chartbook containing the prepared MES charts.
 ---
 
 ## Quick Tips
+### Charts
 
 - The **1-minute and 5-minute charts use the same studies**.
 - **Volume Profile and Delta settings** should be adjusted to suit your personal preference.
 - **8R / 24R** are Range Bar charts and can be interesting for exploring different trading ideas or styles.
 - **DD** shows the current market data delay for reference.
-- **Session times are intentionally rounded**, so the Time Range Highlight Studies may show small overlaps or gaps between sessions.
+- **Session times are intentionally rounded**, so the Time Range Highlight studies for the Asia Session, London Session and Initial Balance may show small overlaps or gaps in the colored chart backgrounds.
 
 ### Control Bar
 
-- The **TWC button** can be linked to Order Templates.
-- **CS / ACS buttons** can be assigned to additional functions.
+- **TWC buttons** can be linked to Order Templates and assigned keyboard shortcuts.
+- **CS (ACS) buttons** can be assigned keyboard shortcuts to trigger additional functions.
 - Additional **drawing tools with alerts** are available next to the Alert Manager.
 - The **Status Bar** has been removed from the Control Bar because the relevant information is already shown in the application title bar.
 
